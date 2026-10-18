@@ -1,9 +1,8 @@
-Mi Economía 3.9
+Mi Economía 4.0 — Mis productos
 
-1. Exporta una copia JSON antes de actualizar.
-2. Sube los archivos descomprimidos a la raíz del repositorio GitHub Pages.
-3. Abre la app desde su icono y comprueba la versión 3.9 en Ajustes.
-4. Importa el ticket del 04/09/2026 (84,43 €) y comprueba que se detectan 26 líneas y el total coincide.
-5. Si hay diferencia, revisa los importes: la app impide guardar un ticket descuadrado.
+1. Haz una copia JSON antes de actualizar.
+2. Sube los cinco archivos descomprimidos a la raíz de GitHub Pages.
+3. Abre la aplicación desde su icono y comprueba 4.0 en Ajustes.
+4. Abre Productos: busca, filtra por supermercado/unidad y ordena por fecha o precio.
 
-La base de datos IndexedDB se mantiene sin migraciones. No borres los datos del navegador ni desinstales la aplicación.
+No se modifica el esquema de IndexedDB. Los datos permanecen en el móvil. No desinstales la app ni borres los datos de Safari.
