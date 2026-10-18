@@ -1,0 +1,9 @@
+Mi Economía 3.2
+
+1. Conserva una copia JSON desde Ajustes antes de actualizar.
+2. En GitHub, sustituye index.html, manifest.webmanifest y sw.js en la rama main.
+3. Comprueba que GitHub Pages sigue publicando desde main / (root).
+4. Abre la app en el iPhone, cierra y vuelve a abrir si aparece la versión anterior.
+5. Los datos siguen guardados localmente en el mismo navegador y origen web. No borres los datos de Safari.
+
+Cambios: filtros de movimientos adaptados a pantalla pequeña, botones y tarjetas más legibles, mejoras de visualización de tickets.
