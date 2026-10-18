@@ -1,1 +1,9 @@
-{"name":"Mi economía · Gastos del hogar","short_name":"Mi economía","start_url":"./index.html","display":"standalone","background_color":"#f5f7f5","theme_color":"#123b35","icons":[]}
+{
+  "name": "Mi Economía",
+  "short_name": "Mi Economía",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#123b35"
+}

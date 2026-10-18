@@ -1,9 +1,9 @@
-MI ECONOMÍA 3.5 — ACTUALIZACIÓN GITHUB PAGES
+MI ECONOMÍA 3.6
 
-1. Antes de actualizar, abre la aplicación instalada y exporta una copia JSON desde Ajustes. Guárdala fuera de la aplicación.
-2. En GitHub, abre el repositorio josegude-ux/-mi-economia y sube los CUATRO archivos de este ZIP a la raíz de la rama main, sustituyendo los anteriores (no subas el ZIP sin extraer).
-3. Espera a que GitHub Pages publique los cambios. Abre la web desde Safari y comprueba que Ajustes indique 3.5.
-4. Cierra y vuelve a abrir la aplicación instalada desde su icono. No borres la app ni los datos de Safari.
+1. Guarda una copia JSON desde Ajustes antes de actualizar.
+2. Sube los cuatro archivos del ZIP a la raíz de la rama main del repositorio GitHub Pages, reemplazando los anteriores.
+3. Espera a que GitHub Pages publique los cambios.
+4. Abre la aplicación instalada y pulsa Ajustes > Buscar actualizaciones. Si sigue mostrando la versión anterior, ciérrala y vuelve a abrirla.
+5. No borres los datos de Safari ni desinstales la app: los movimientos se guardan localmente.
 
-Los movimientos siguen almacenados en IndexedDB con el mismo nombre y esquema. No hay sincronización entre dispositivos. La detección automática comprueba version.json cuando se abre la app o vuelve al primer plano con conexión; puede requerir recargar para aplicar la versión nueva.
-La actualización de una PWA depende también del comportamiento de iOS y de su caché, por lo que no se garantiza una actualización inmediata.
+Esta versión mejora la presentación móvil y conserva la estructura de almacenamiento existente. No añade OCR ni sincronización.
