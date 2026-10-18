@@ -1,5 +1,8 @@
-Mi Economía 3.3
-Sube index.html, sw.js, manifest.webmanifest y version.json a la raíz de la rama main del repositorio GitHub. No subas este TXT si no quieres.
-GitHub Pages debe estar configurado para publicar desde main / (root).
-Abre de nuevo la app tras publicar. Las futuras versiones pueden detectarse desde Ajustes > Buscar actualizaciones. La publicación de nuevas versiones en GitHub sigue siendo necesaria.
-Haz una copia JSON antes de actualizar.
+Mi Economía 3.4 - Corrección de navegación iPhone
+
+1. Guarda una copia JSON desde Ajustes antes de actualizar.
+2. En GitHub abre tu repositorio y sustituye únicamente index.html por el index.html de este ZIP.
+3. Conserva los archivos sw.js, manifest.webmanifest, version.json y los iconos existentes.
+4. Si la app instalada sigue mostrando la pantalla anterior, espera a que se actualice el service worker y vuelve a abrirla. No borres datos del sitio ni desinstales la app antes de verificar tus copias.
+
+Esta entrega corrige la navegación fija de 5 pestañas. No cambia el nombre de la base IndexedDB ni la estructura de movimientos.
