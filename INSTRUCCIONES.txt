@@ -1,8 +1,9 @@
-Mi Economía 3.4 - Corrección de navegación iPhone
+MI ECONOMÍA 3.5 — ACTUALIZACIÓN GITHUB PAGES
 
-1. Guarda una copia JSON desde Ajustes antes de actualizar.
-2. En GitHub abre tu repositorio y sustituye únicamente index.html por el index.html de este ZIP.
-3. Conserva los archivos sw.js, manifest.webmanifest, version.json y los iconos existentes.
-4. Si la app instalada sigue mostrando la pantalla anterior, espera a que se actualice el service worker y vuelve a abrirla. No borres datos del sitio ni desinstales la app antes de verificar tus copias.
+1. Antes de actualizar, abre la aplicación instalada y exporta una copia JSON desde Ajustes. Guárdala fuera de la aplicación.
+2. En GitHub, abre el repositorio josegude-ux/-mi-economia y sube los CUATRO archivos de este ZIP a la raíz de la rama main, sustituyendo los anteriores (no subas el ZIP sin extraer).
+3. Espera a que GitHub Pages publique los cambios. Abre la web desde Safari y comprueba que Ajustes indique 3.5.
+4. Cierra y vuelve a abrir la aplicación instalada desde su icono. No borres la app ni los datos de Safari.
 
-Esta entrega corrige la navegación fija de 5 pestañas. No cambia el nombre de la base IndexedDB ni la estructura de movimientos.
+Los movimientos siguen almacenados en IndexedDB con el mismo nombre y esquema. No hay sincronización entre dispositivos. La detección automática comprueba version.json cuando se abre la app o vuelve al primer plano con conexión; puede requerir recargar para aplicar la versión nueva.
+La actualización de una PWA depende también del comportamiento de iOS y de su caché, por lo que no se garantiza una actualización inmediata.
