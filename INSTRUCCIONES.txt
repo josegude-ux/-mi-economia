@@ -1,8 +1,9 @@
-Mi Economía 3.8
+Mi Economía 3.9
 
-1. Antes de actualizar, exporta una copia JSON desde Ajustes.
-2. Descomprime este ZIP y sube los archivos a la raíz del repositorio GitHub Pages, sustituyendo los anteriores.
-3. Abre la aplicación desde el icono del iPhone y comprueba en Ajustes que muestra 3.8.
-4. En Tickets, busca productos en el nuevo comparador, filtra por unidad y establecimiento.
+1. Exporta una copia JSON antes de actualizar.
+2. Sube los archivos descomprimidos a la raíz del repositorio GitHub Pages.
+3. Abre la app desde su icono y comprueba la versión 3.9 en Ajustes.
+4. Importa el ticket del 04/09/2026 (84,43 €) y comprueba que se detectan 26 líneas y el total coincide.
+5. Si hay diferencia, revisa los importes: la app impide guardar un ticket descuadrado.
 
-Los movimientos siguen almacenados localmente en IndexedDB con el mismo nombre y esquema. No desinstales la aplicación ni borres los datos del sitio.
+La base de datos IndexedDB se mantiene sin migraciones. No borres los datos del navegador ni desinstales la aplicación.
