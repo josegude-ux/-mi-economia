@@ -1,9 +1,10 @@
-MI ECONOMÍA 3.6
+MI ECONOMÍA 3.7
 
-1. Guarda una copia JSON desde Ajustes antes de actualizar.
-2. Sube los cuatro archivos del ZIP a la raíz de la rama main del repositorio GitHub Pages, reemplazando los anteriores.
+1. Guarda una copia JSON desde Ajustes de la app instalada.
+2. En GitHub, sube estos archivos a la raíz de la rama main, sustituyendo los anteriores.
 3. Espera a que GitHub Pages publique los cambios.
-4. Abre la aplicación instalada y pulsa Ajustes > Buscar actualizaciones. Si sigue mostrando la versión anterior, ciérrala y vuelve a abrirla.
-5. No borres los datos de Safari ni desinstales la app: los movimientos se guardan localmente.
+4. Abre Mi Economía desde el icono, entra en Ajustes y pulsa Buscar actualizaciones si no se actualiza automáticamente.
+5. Comprueba que aparece Mi Economía 3.7 y que siguen tus movimientos.
 
-Esta versión mejora la presentación móvil y conserva la estructura de almacenamiento existente. No añade OCR ni sincronización.
+No elimines el icono ni borres los datos de Safari. La base IndexedDB conserva su nombre y esquema.
+Nota: iOS puede retrasar las actualizaciones de una PWA; si sucede, abrir la web en Safari ayuda a activar el nuevo service worker.
