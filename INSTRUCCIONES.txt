@@ -1,9 +1,9 @@
-Mi Economía 4.3
+Mi Economía 4.4
 
-Novedad: Productos marca en rojo los productos con varias compras cuyo formato no se ha confirmado; verde los verificados; neutro los de una sola compra. Filtro Estado de revisión.
+1. Exporta una copia JSON antes de actualizar.
+2. Descomprime el ZIP y sube sus cinco archivos a GitHub Pages, sustituyendo los anteriores.
+3. Abre la aplicación desde su icono y comprueba 4.4 en Ajustes.
+4. En Productos: mismo precio unitario = verde (sin cambios), diferencia no verificada = ámbar, subida confirmada = rojo, bajada confirmada = verde, una compra = gris.
+5. La cantidad comprada no provoca una alerta si el precio unitario coincide. Una igualdad de precio NO implica formato verificado.
 
-1. Exporta copia JSON en Ajustes.
-2. Descomprime y sube los cinco archivos a la raíz de GitHub Pages.
-3. Abre desde el icono, comprueba 4.3 en Ajustes y revisa Productos.
-
-La base IndexedDB no se modifica. No borres datos de Safari ni desinstales la app. Las confirmaciones se conservan en localStorage del dispositivo.
+Se conservan IndexedDB y las confirmaciones locales existentes. No desinstales ni borres datos del navegador.
