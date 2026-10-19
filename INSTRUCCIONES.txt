@@ -1,8 +1,6 @@
-Mi Economía 4.0 — Mis productos
-
-1. Haz una copia JSON antes de actualizar.
-2. Sube los cinco archivos descomprimidos a la raíz de GitHub Pages.
-3. Abre la aplicación desde su icono y comprueba 4.0 en Ajustes.
-4. Abre Productos: busca, filtra por supermercado/unidad y ordena por fecha o precio.
-
-No se modifica el esquema de IndexedDB. Los datos permanecen en el móvil. No desinstales la app ni borres los datos de Safari.
+Mi Economía 4.1
+1. Exporta primero una copia JSON desde Ajustes.
+2. Sube los cinco archivos a la raíz del repositorio GitHub Pages.
+3. Abre desde el icono del iPhone y comprueba la versión en Ajustes.
+4. Revisa la barra inferior (seis botones en una fila) y la pestaña Productos.
+No desinstales la app ni borres los datos de Safari.
