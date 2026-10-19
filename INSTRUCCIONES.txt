@@ -1,9 +1,10 @@
-Mi Economía 4.4
+Mi Economía 4.5 — Evolución y ahorro
 
-1. Exporta una copia JSON antes de actualizar.
-2. Descomprime el ZIP y sube sus cinco archivos a GitHub Pages, sustituyendo los anteriores.
-3. Abre la aplicación desde su icono y comprueba 4.4 en Ajustes.
-4. En Productos: mismo precio unitario = verde (sin cambios), diferencia no verificada = ámbar, subida confirmada = rojo, bajada confirmada = verde, una compra = gris.
-5. La cantidad comprada no provoca una alerta si el precio unitario coincide. Una igualdad de precio NO implica formato verificado.
+1. Haz copia JSON en Ajustes antes de actualizar.
+2. Sube los cinco archivos de este ZIP a la raíz de GitHub Pages.
+3. Abre la aplicación instalada y comprueba 4.5 en Ajustes.
+4. En Productos encontrarás el panel de evolución y ahorro.
 
-Se conservan IndexedDB y las confirmaciones locales existentes. No desinstales ni borres datos del navegador.
+Subidas/bajadas solo con formatos confirmados. El ahorro estimado requiere el mismo producto verificado en al menos dos supermercados y compara los últimos precios registrados de cada establecimiento. Es orientativo.
+
+Los gastos y tickets permanecen en IndexedDB del iPhone; no borres datos de Safari ni desinstales la app.
