@@ -1,10 +1,9 @@
-Mi Economía 4.5 — Evolución y ahorro
+Mi Economía 4.6 — Panel de ahorro interactivo
 
-1. Haz copia JSON en Ajustes antes de actualizar.
-2. Sube los cinco archivos de este ZIP a la raíz de GitHub Pages.
-3. Abre la aplicación instalada y comprueba 4.5 en Ajustes.
-4. En Productos encontrarás el panel de evolución y ahorro.
+1. Haz una copia JSON de seguridad desde Ajustes.
+2. Descomprime este ZIP y sube los cinco archivos a la raíz del repositorio GitHub Pages.
+3. Actualiza desde el icono del iPhone y comprueba Mi Economía 4.6 en Ajustes.
+4. En Productos, toca los contadores de subidas, bajadas, sin cambios o pendientes para ver los artículos y sus precios.
+5. Toca el contador de nuevo o Cerrar para ocultar el detalle.
 
-Subidas/bajadas solo con formatos confirmados. El ahorro estimado requiere el mismo producto verificado en al menos dos supermercados y compara los últimos precios registrados de cada establecimiento. Es orientativo.
-
-Los gastos y tickets permanecen en IndexedDB del iPhone; no borres datos de Safari ni desinstales la app.
+Los datos permanecen en IndexedDB y las confirmaciones en localStorage. No borres datos del navegador ni desinstales la aplicación.
