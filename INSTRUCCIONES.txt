@@ -1,9 +1,9 @@
-Mi Economía 4.6 — Panel de ahorro interactivo
+Mi Economía 4.7
 
-1. Haz una copia JSON de seguridad desde Ajustes.
-2. Descomprime este ZIP y sube los cinco archivos a la raíz del repositorio GitHub Pages.
-3. Actualiza desde el icono del iPhone y comprueba Mi Economía 4.6 en Ajustes.
-4. En Productos, toca los contadores de subidas, bajadas, sin cambios o pendientes para ver los artículos y sus precios.
-5. Toca el contador de nuevo o Cerrar para ocultar el detalle.
+1. Exporta copia JSON en Ajustes.
+2. Descomprime el ZIP y sube los cinco archivos a GitHub Pages.
+3. Comprueba la versión 4.7 en Ajustes.
+4. En Productos > Evolución y ahorro, pulsa Subidas y luego Ver compras originales.
+5. Comprueba especialmente Pechuga familiar: el aviso señala comparaciones de registros con la misma fecha.
 
-Los datos permanecen en IndexedDB y las confirmaciones en localStorage. No borres datos del navegador ni desinstales la aplicación.
+No se ha modificado el esquema IndexedDB ni las claves de confirmación de formatos. No desinstales la aplicación ni borres sus datos.
