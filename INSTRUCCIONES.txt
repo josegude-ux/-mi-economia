@@ -1,6 +1,9 @@
-Mi Economía 4.1
-1. Exporta primero una copia JSON desde Ajustes.
-2. Sube los cinco archivos a la raíz del repositorio GitHub Pages.
-3. Abre desde el icono del iPhone y comprueba la versión en Ajustes.
-4. Revisa la barra inferior (seis botones en una fila) y la pestaña Productos.
-No desinstales la app ni borres los datos de Safari.
+Mi Economía 4.2
+
+1. Exporta copia JSON en Ajustes antes de actualizar.
+2. Sube los cinco archivos a GitHub Pages.
+3. Comprueba versión 4.2 en Ajustes.
+4. En Productos, toca un producto para desplegar su historial.
+5. Solo si los envases son iguales, marca la casilla de equivalencia para ver variaciones y menor precio comparable.
+
+No borres los datos del navegador ni desinstales la aplicación. La confirmación de formatos se guarda localmente en este iPhone.
